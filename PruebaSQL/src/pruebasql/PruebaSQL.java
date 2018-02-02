@@ -21,6 +21,11 @@ public class PruebaSQL {
         System.out.println(x+y);
         //prueba Alejandro
         //ya lo vi
+        for (int i = 0; i < 10; i++) {
+            x=i;
+            System.out.println(x);
+        }
+        
     }
     
 }
