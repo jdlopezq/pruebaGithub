@@ -16,6 +16,10 @@ public class PruebaSQL {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        int x =9, y =19;
+        System.out.println(x+y);
+        
     }
     
 }
